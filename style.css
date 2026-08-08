@@ -1,4 +1,5 @@
-.body {
-    background-color: rgb(35, 35, 35);
+body {
+    background-color: rgb(25, 25, 25);
     font-family: "Bitcount Prop Single", system-ui;
+    color: rgb(0, 100, 200);
 }
